@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recipe Book</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+
+        h1 {
+            text-align: center;
+            background-color: #ff6347;
+            color: white;
+            padding: 20px 0;
+            margin: 0;
+        }
+
+        h2 {
+            color: #ff6347;
+        }
+
+        ol {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 20px;
+            margin: 20px auto;
+            max-width: 600px;
+        }
+
+        a {
+            color: #ff6347;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 10px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #ff6347;
+            color: white;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            margin: 5px 0;
+        }
+
+        p {
+            margin: 10px 0;
+        }
+
+        .recipe {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 20px;
+            margin: 20px auto;
+            max-width: 600px;
+        }
+
+        .source {
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <h1>My Favorite Recipes</h1>
+
+    <h2>Contents:</h2>
+    <ol>
+        <li><a href="#recipe1">Spaghetti Carbonara</a></li>
+        <li><a href="#recipe2">Classic Pancakes</a></li>
+    </ol>
+
+    <div class="recipe" id="recipe1">
+        <h2>Spaghetti Carbonara</h2>
+        <ul>
+            <li>Time: 20 minutes</li>
+            <li>Serves: 4</li>
+        </ul>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Spaghetti</td>
+                    <td>400g</td>
+                </tr>
+                <tr>
+                    <td>Pancetta</td>
+                    <td>150g</td>
+                </tr>
+                <tr>
+                    <td>Eggs</td>
+                    <td>3</td>
+                </tr>
+                <tr>
+                    <td>Grated Parmesan Cheese</td>
+                    <td>50g</td>
+                </tr>
+                <tr>
+                    <td>Garlic</td>
+                    <td>1 clove</td>
+                </tr>
+                <tr>
+                    <td>Salt & Pepper</td>
+                    <td>To taste</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <p><strong>Steps:</strong></p>
+        <p>1. Cook the spaghetti in salted boiling water until al dente.</p>
+        <p>2. In a pan, cook the pancetta until crispy. Add the garlic and cook for 1 minute.</p>
+        <p>3. Beat the eggs in a bowl, then mix in the Parmesan cheese.</p>
+        <p>4. Drain the spaghetti, reserving some cooking water. Add the spaghetti to the pan with pancetta and mix.</p>
+        <p>5. Remove from heat and stir in the egg mixture, adding reserved water if needed to create a creamy sauce.</p>
+        <p>6. Season with salt and pepper, then serve immediately.</p>
+
+        <p class="source">Source: <a href="https://example.com/carbonara" target="_blank">Example Recipe Website</a></p>
+    </div>
+
+    <div class="recipe" id="recipe2">
+        <h2>Classic Pancakes</h2>
+        <ul>
+            <li>Time: 15 minutes</li>
+            <li>Serves: 4</li>
+        </ul>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Flour</td>
+                    <td>200g</td>
+                </tr>
+                <tr>
+                    <td>Milk</td>
+                    <td>300ml</td>
+                </tr>
+                <tr>
+                    <td>Eggs</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td>Butter</td>
+                    <td>50g</td>
+                </tr>
+                <tr>
+                    <td>Sugar</td>
+                    <td>1 tbsp</td>
+                </tr>
+                <tr>
+                    <td>Salt</td>
+                    <td>Pinch</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <p><strong>Steps:</strong></p>
+        <p>1. In a bowl, whisk together flour, sugar, and salt.</p>
+        <p>2. Beat the eggs, then add milk and mix well.</p>
+        <p>3. Gradually add the wet mixture to the dry ingredients, stirring to form a smooth batter.</p>
+        <p>4. Heat a non-stick pan over medium heat and melt a little butter.</p>
+        <p>5. Pour batter into the pan and cook until bubbles appear, then flip and cook the other side.</p>
+        <p>6. Repeat until all the batter is used. Serve with your favorite toppings.</p>
+
+        <p class="source">Source: <a href="https://example.com/pancakes" target="_blank">Example Recipe Website</a></p>
+    </div>
+</body>
+</html>
