@@ -1,0 +1,132 @@
+[
+    {
+        "name" : "Книга Клир Д.: Атомные привычки",
+        "imageUrl" : "https://resources.cdn-kaspi.kz/img/m/p/h4c/h9a/86244289314846.png?format=gallery-medium",
+        "description" : [
+            "Genre: psychology",
+            "Year: 2024",
+            "Language: russian"
+        ],
+        "id" : 1,
+        "rating" : 5.0,
+        "price" : 2390,
+        "link" : "https://kaspi.kz/shop/p/klir-d-atomnye-privychki-117680550/?c=750000000&utm_source=google&utm_medium=cpc&utm_campaign=shop_google_performance_max_smartphones_v2&gclid=CjwKCAiAtsa9BhAKEiwAUZAszVnskFNtw45lXdJ3DBcbkmZSX4XBHvrc9YMF2tGxLsqH47x1mE_lwhoCd5kQAvD_BwE"
+    },
+    {
+        "name" : "Книга Исабеков Д.: Сүйекші",
+        "imageUrl" : "https://resources.cdn-kaspi.kz/img/m/p/hfb/hd7/63877660246046.jpg?format=gallery-medium",
+        "description" : [
+            "Genre: drama",
+            "Year: 2021 (Republish)",
+            "Language: russian"
+        ],
+        "id" : 2,
+        "rating" : 5.0,
+        "price" : 1130,
+        "link" : "https://kaspi.kz/shop/p/isabekov-d-s-ieksh--102332094/?c=750000000&utm_source=google&utm_medium=cpc&utm_campaign=shop_google_performance_max_smartphones_v2&gclid=CjwKCAiAtsa9BhAKEiwAUZAszVnskFNtw45lXdJ3DBcbkmZSX4XBHvrc9YMF2tGxLsqH47x1mE_lwhoCd5kQAvD_BwE"
+    },
+    {
+        "name" : "Книга Кавамура Гэнки: Если все кошки в мире исчезнут",
+        "imageUrl" : "https://resources.cdn-kaspi.kz/img/m/p/h88/h42/80682277699614.jpg?format=gallery-medium",
+        "description" : [
+            "Genre: drama",
+            "Year: 2023",
+            "Language: russian"
+        ],
+        "id" : 3,
+        "rating" : 5.0,
+        "price" : 2150,
+        "link" : "https://kaspi.kz/shop/p/kavamura-genki-esli-vse-koshki-v-mire-ischeznut-110275073/?c=750000000&utm_source=google&utm_medium=cpc&utm_campaign=shop_google_performance_max_smartphones_v2&gclid=CjwKCAiAtsa9BhAKEiwAUZAszVnskFNtw45lXdJ3DBcbkmZSX4XBHvrc9YMF2tGxLsqH47x1mE_lwhoCd5kQAvD_BwE"
+    },
+    {
+        "name" : "Книга Примаченко О.: К себе нежно",
+        "imageUrl" : "https://resources.cdn-kaspi.kz/img/m/p/h04/ha7/85880035901470.jpg?format=gallery-medium",
+        "description" : [
+            "Genre: psychology",
+            "Year: 2020",
+            "Language: russian"
+        ],
+        "id" : 4,
+        "rating" : 5.0,
+        "price" : 3490,
+        "link" : "https://kaspi.kz/shop/p/primachenko-o-k-sebe-nezhno-101855237/?c=750000000&utm_source=google&utm_medium=cpc&utm_campaign=shop_google_performance_max_smartphones_v2&gclid=CjwKCAiAtsa9BhAKEiwAUZAszVnskFNtw45lXdJ3DBcbkmZSX4XBHvrc9YMF2tGxLsqH47x1mE_lwhoCd5kQAvD_BwE"
+    },
+    {
+        "name" : "Книга Мұхтар Мағауин: Алтын орда",
+        "imageUrl" : "https://resources.cdn-kaspi.kz/img/m/p/p8a/pa0/15234318.jpeg?format=gallery-medium",
+        "description" : [
+            "Genre: drama",
+            "Year: 2024",
+            "Language: kazakh"
+        ],
+        "id" : 5,
+        "rating" : 4.8,
+        "price" : 4479,
+        "link" : "https://kaspi.kz/shop/p/m-htar-ma-auin-altyn-orda-132016227/?c=750000000&utm_source=google&utm_medium=cpc&utm_campaign=shop_google_performance_max_smartphones_v2&gclid=CjwKCAiAtsa9BhAKEiwAUZAszVnskFNtw45lXdJ3DBcbkmZSX4XBHvrc9YMF2tGxLsqH47x1mE_lwhoCd5kQAvD_BwE"
+    },
+    {
+        "name" : "Книга Спаркс Н.: Дневник памяти",
+        "imageUrl" : "https://resources.cdn-kaspi.kz/img/m/p/h1f/he7/63886250180638.jpg?format=gallery-medium",
+        "description" : [
+            "Genre: modern literature",
+            "Year: 2015",
+            "Language: russian"
+        ],
+        "id" : 6,
+        "rating" : 4.8,
+        "price" : 1749,
+        "link" : "https://kaspi.kz/shop/p/sparks-n-dnevnik-pamjati-100259727/?c=750000000&utm_source=google&utm_medium=cpc&utm_campaign=shop_google_performance_max_smartphones_v2&gclid=CjwKCAiAtsa9BhAKEiwAUZAszVnskFNtw45lXdJ3DBcbkmZSX4XBHvrc9YMF2tGxLsqH47x1mE_lwhoCd5kQAvD_BwE"
+    },
+    {
+        "name" : "Книга Клейсон Дж.: Самый богатый человек в Вавилоне",
+        "imageUrl" : "https://resources.cdn-kaspi.kz/img/m/p/hc3/h6e/80549706432542.jpg?format=gallery-medium",
+        "description" : [
+            "Genre: modern literature",
+            "Year: 2023",
+            "Language: russian"
+        ],
+        "id" : 7,
+        "rating" : 5,
+        "price" : 1739,
+        "link" : "https://kaspi.kz/shop/p/kleison-dzh-samyi-bogatyi-chelovek-v-vavilone-110124436/?c=750000000&utm_source=google&utm_medium=cpc&utm_campaign=shop_google_performance_max_smartphones_v2&gclid=CjwKCAiAtsa9BhAKEiwAUZAszVnskFNtw45lXdJ3DBcbkmZSX4XBHvrc9YMF2tGxLsqH47x1mE_lwhoCd5kQAvD_BwE"
+    },
+    {
+        "name" : "Книга Акутами Г.: Магическая битва. Часть 1. Двуликий Сукуна. Проклятый плод",
+        "imageUrl" : "https://resources.cdn-kaspi.kz/img/m/p/hef/hcd/65106699845662.jpg?format=gallery-medium",
+        "description" : [
+            "Genre: Manga",
+            "Subgenre: Shounen, Fantasy, Comedy, Mystery, Action, Horror, School",
+            "In Color: No"
+        ],
+        "id" : 8,
+        "rating" : 5,
+        "price" : 6217,
+        "link" : "https://kaspi.kz/shop/p/akutami-g-magicheskaja-bitva-chast-1-dvulikii-sukuna-prokljatyi-plod-105137134/?c=750000000"
+    },
+    {
+        "name" : "Книга Исида С.: Токийский гуль. Часть 1",
+        "imageUrl" : "https://resources.cdn-kaspi.kz/img/m/p/hc0/hf0/63816838447134.jpg?format=gallery-medium",
+        "description" : [
+            "Genre: Manga",
+            "Subgenre: Action, Horror, Science Fiction, Seinen, Drama, Mystery",
+            "In Color: No"
+        ],
+        "id" : 9,
+        "rating" : 5,
+        "price" : 7350,
+        "link" : "https://kaspi.kz/shop/p/isida-s-tokiiskii-gul-chast-1-26014610/?c=750000000"
+    }, 
+    {
+        "name" : "Книга Фудзимото Т.: Человек-бензопила. Часть 1. Пес и бензопила. Бензопила против нетопыря",
+        "imageUrl" : "https://resources.cdn-kaspi.kz/img/m/p/h3a/he3/64161538899998.jpg?format=gallery-medium",
+        "description" : [
+            "Genre: Manga",
+            "Subgenre: Shounen, Comedy, Drama, Action, Thriller, Dark Fantasy",
+            "In Color: No"
+        ],
+        "id" : 10,
+        "rating" : 5,
+        "price" : 7850,
+        "link" : "https://kaspi.kz/shop/p/fudzimoto-t-chelovek-benzopila-chast-1-pes-i-benzopila-benzopila-protiv-netopyrja-103331271/?c=750000000"
+    }
+]
