@@ -1,0 +1,33 @@
+<div>
+
+  <h1>Каталог товаров</h1>
+
+  <div class = 'category-buttons'>
+    <label for="category">Выберите категорию:</label>
+    <select id="category" (change) = "selectCategory($event)">
+      <option *ngFor = "let category of categories" [value]="category">
+        {{category}}
+      </option>
+    </select>
+  </div>
+
+  <div class="products-container">
+    <div *ngFor="let product of getfilteredProducts()" class="product-card">
+      <img class = 'product-image' [src]="product.image" alt="{{ product.name }}">
+      <h3>{{ product.name }}</h3>
+      <h4>{{ product.price}} тенге </h4>
+      <p>{{ product.description }}</p>
+      <p><strong>Rating:</strong>  {{ product.rating }}</p>
+      <p><strong>Like:</strong> {{product.likes}}</p>
+
+      <a [href]="product.link" target="_blank">Подробнее</a>
+      <div class="doing-buttons"><button (click) = "likeProduct(product.id)">Мне нравится!</button>
+        <button (click) = "removeProduct(product.id)">Удалить</button></div>
+
+      <div class = 'share-buttons'>
+        <button (click)="shareProduct(product.link, 'whatsapp')"> Поделиться в WhatsApp</button>
+        <button (click)="shareProduct(product.link, 'telegram')"> Поделиться в Telegram</button>
+      </div>
+    </div>
+  </div>
+</div>
